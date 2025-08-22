@@ -1,0 +1,5 @@
+{
+  "name": "Medisync - Hospital Management System",
+  "description": "A comprehensive Hospital Management System built with React and Tailwind CSS, featuring role-based dashboards for patients, doctors, and administrators. It includes appointment booking, a symptom checker powered by Gemini, and administrative analytics.",
+  "requestFramePermissions": []
+}
